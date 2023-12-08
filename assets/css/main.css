@@ -3007,6 +3007,7 @@ input, select, textarea {
 			}
 
 			.cardBox .card .image{
+				margin-left: -20px;
 				width: 100%;
 				height: 100%;
 			}
