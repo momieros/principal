@@ -2801,6 +2801,7 @@ input, select, textarea {
 		table {
 			margin-left: -20px;
 			width: 100%;
+			font-size: 90%;
 		}
 
 	}
